@@ -89,7 +89,7 @@ port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "manjunath1055@gmail.com"  # Enter your address
 receiver_email = "manjunath.d1@visioneer.atria.edu "  # Enter receiver address
-password = "5028@Manju"
+password = "*********"
 message = """Subject: Hi there
 This is jenkins reporting,
 your model accuracy is:"""+ str(error) +"""%"""
